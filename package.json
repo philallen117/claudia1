@@ -1,0 +1,28 @@
+{
+  "name": "claudia1",
+  "version": "1.0.0",
+  "description": "First Claudia project",
+  "main": "index.js",
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philallen117/claudia1.git"
+  },
+  "keywords": [
+    "lambda",
+    "aws",
+    "node"
+  ],
+  "author": "philallen117",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philallen117/claudia1/issues"
+  },
+  "homepage": "https://github.com/philallen117/claudia1#readme"
+}
